@@ -1,3 +1,9 @@
+<style>
+.logo {
+    width: 360px;   /* double size */
+    height: auto;
+}
+</style>
 body {
   margin: 0;
   font-family: 'Segoe UI', Arial, sans-serif;
